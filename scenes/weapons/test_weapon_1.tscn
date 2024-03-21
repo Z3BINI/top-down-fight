@@ -1,0 +1,55 @@
+[gd_scene load_steps=9 format=3 uid="uid://bwlsaep0ddri0"]
+
+[ext_resource type="Script" path="res://scripts/components/items/physics_item_component.gd" id="1_0quar"]
+[ext_resource type="Texture2D" uid="uid://dtktpj0x13bma" path="res://assets/weapons/wep3.png" id="2_3au6h"]
+[ext_resource type="Script" path="res://scripts/components/weapon_component.gd" id="3_f50ek"]
+[ext_resource type="Script" path="res://scripts/components/damagebox_component.gd" id="4_gj2ur"]
+[ext_resource type="PackedScene" uid="uid://l1ef27817347" path="res://scenes/components/interaction/interaction_area_component.tscn" id="5_mc248"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_0d4nl"]
+radius = 1.0
+height = 10.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ctmts"]
+radius = 2.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_bckg0"]
+
+[node name="TestWeapon1" type="RigidBody2D" node_paths=PackedStringArray("item_details")]
+collision_layer = 128
+collision_mask = 3
+gravity_scale = 0.0
+linear_damp = 2.0
+angular_damp = 1.5
+script = ExtResource("1_0quar")
+ITEM_TYPE = "WEAPON"
+item_details = NodePath("WeaponComponent")
+
+[node name="WeaponComponent" type="Sprite2D" parent="."]
+position = Vector2(0, -3)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_3au6h")
+script = ExtResource("3_f50ek")
+WEAPON_TYPE = "MELEE"
+DAMAGE = 2.0
+DURABILITY = 10.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -3)
+shape = SubResource("CapsuleShape2D_0d4nl")
+
+[node name="DamageboxComponent" type="Area2D" parent="."]
+collision_layer = 64
+collision_mask = 32
+script = ExtResource("4_gj2ur")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="DamageboxComponent"]
+position = Vector2(0, -6)
+shape = SubResource("CircleShape2D_ctmts")
+disabled = true
+
+[node name="InteractionAreaComponent" parent="." instance=ExtResource("5_mc248")]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractionAreaComponent"]
+position = Vector2(0, -2)
+shape = SubResource("CircleShape2D_bckg0")

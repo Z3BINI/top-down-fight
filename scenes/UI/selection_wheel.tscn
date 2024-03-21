@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://5sgawqs7msje"]
+
+[ext_resource type="Script" path="res://scripts/UI/selection_wheel.gd" id="1_my6yn"]
+
+[node name="SelectionWheel" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+script = ExtResource("1_my6yn")
+bg_color = Color(0.129412, 0.109804, 0.0980392, 0.709804)
+line_color = Color(1, 1, 1, 1)
+highlight_color = Color(0.529412, 0.529412, 0.529412, 0.882353)
+line_width = 0.32

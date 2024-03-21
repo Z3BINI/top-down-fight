@@ -1,0 +1,154 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710675388
+icon.svg::CompressedTexture2D::1007449552427026429::1706525314::1706525333::1::::<><>::
+::res://assets/::1706884869
+::res://assets/animals/::1706793079
+::res://assets/animals/chicken/::1706793142
+chicken_down.png::CompressedTexture2D::1335965992645103237::1696467766::1706793142::1::::<><>::
+chicken_left.png::CompressedTexture2D::2503653773394238185::1696467781::1706793142::1::::<><>::
+chicken_right.png::CompressedTexture2D::3145279094776881152::1696467819::1706793142::1::::<><>::
+chicken_up.png::CompressedTexture2D::8331756961550257490::1696467805::1706793142::1::::<><>::
+::res://assets/player/::1706526216
+::res://assets/player/8-Directional Gameboy Character Template/::1706525941
+loose sprites gbstudio.png::CompressedTexture2D::8675387937876030863::1642700082::1706525941::1::::<><>::
+loose sprites.png::CompressedTexture2D::3107905704204502458::1641402019::1706525941::1::::<><>::
+::res://assets/player/8-Directional Gameboy Character Template/aseprite/::1641402084
+::res://assets/player/8-Directional Gameboy Character Template/gif/::1641402879
+::res://assets/player/NulBoy_SpriteSheet/::1706526230
+CharacterSpriteSheet.png::CompressedTexture2D::2184429122994460837::1697639874::1706526230::1::::<><>::
+README.txt::TextFile::-1::1697697872::0::1::::<><>::
+::res://assets/weapons/::1706957849
+outline original.png::CompressedTexture2D::1810762787835177903::1570186115::1706884877::1::::<><>::
+wep1.png::CompressedTexture2D::2926623840697516119::1706957770::1706957849::1::::<><>::
+wep2.png::CompressedTexture2D::4450061228988673206::1706957805::1706957849::1::::<><>::
+wep3.png::CompressedTexture2D::8514674779924775740::1706957844::1706957849::1::::<><>::
+::res://assets/world/::1706700670
+::res://assets/world/exterior/::1706700679
+::res://assets/world/exterior/fantasy_ [version 2.0]/::1706700676
+readMe_.txt::TextFile::-1::1676247306::0::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/cave_/::1706700746
+cave_ [bridgeAnimatedTiles].png::CompressedTexture2D::8543724251141432304::1676239450::1706700746::1::::<><>::
+cave_ [bridgeHorizontal].png::CompressedTexture2D::149906927632647662::1676239698::1706700746::1::::<><>::
+cave_ [bridgeVertical].png::CompressedTexture2D::6682880999594735671::1676239620::1706700746::1::::<><>::
+cave_ [fencesAndWalls].png::CompressedTexture2D::1805736304535196454::1676238246::1706700746::1::::<><>::
+cave_ [fountain].png::CompressedTexture2D::208968806853475192::1676239376::1706700746::1::::<><>::
+cave_ [resources].png::CompressedTexture2D::327783968594775016::1676243842::1706700746::1::::<><>::
+cave_.png::CompressedTexture2D::2350415959074904995::1687808082::1706700746::1::::<><>::
+railway_.png::CompressedTexture2D::7512715317240297163::1653653082::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/desert_/::1706700746
+desertPath_.png::CompressedTexture2D::2112268833005238729::1639657976::1706700746::1::::<><>::
+desert_ [bridgeAnimatedTiles].png::CompressedTexture2D::6722084563998007975::1676239408::1706700746::1::::<><>::
+desert_ [bridgeHorizontal].png::CompressedTexture2D::4067049195807851397::1676239656::1706700746::1::::<><>::
+desert_ [bridgeVertical].png::CompressedTexture2D::3573557737492349455::1676239582::1706700746::1::::<><>::
+desert_ [fencesAndWalls].png::CompressedTexture2D::2257531246567581695::1676238204::1706700746::1::::<><>::
+desert_ [fountain].png::CompressedTexture2D::861568975626949189::1676239354::1706700746::1::::<><>::
+desert_ [resources].png::CompressedTexture2D::4525929860030432566::1676243836::1706700746::1::::<><>::
+desert_.png::CompressedTexture2D::5939535010853079465::1687808094::1706700746::1::::<><>::
+quickSand_.png::CompressedTexture2D::4209822853650612829::1639655598::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/fantasy_/::1706700746
+forestDesert_.png::CompressedTexture2D::4559484644613018432::1676245694::1706700746::1::::<><>::
+swampDesert_.png::CompressedTexture2D::2523338673083587639::1676245814::1706700746::1::::<><>::
+swampForest_.png::CompressedTexture2D::1943319130626140630::1676245758::1706700746::1::::<><>::
+swampTaiga_.png::CompressedTexture2D::4974679357211626166::1676245862::1706700746::1::::<><>::
+taigaDesert_.png::CompressedTexture2D::4677559573155725266::1676245826::1706700746::1::::<><>::
+taigaForest_.png::CompressedTexture2D::6067569273173388420::1676245770::1706700746::1::::<><>::
+tundraDesert_.png::CompressedTexture2D::3305450483211486793::1676245710::1706700746::1::::<><>::
+tundraForest.png::CompressedTexture2D::3362556820262830344::1676245738::1706700746::1::::<><>::
+tundraSwampTaigaForestDesert_0.png::CompressedTexture2D::5609472114039760809::1676244978::1706700746::1::::<><>::
+tundraSwampTaigaForestDesert_1.png::CompressedTexture2D::1741021065767851117::1676248244::1706700746::1::::<><>::
+tundraSwamp_.png::CompressedTexture2D::5396772423125233332::1676245722::1706700746::1::::<><>::
+tundraTaiga_.png::CompressedTexture2D::8364133383294156462::1676245730::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/forest_/::1706700746
+forestPath_.png::CompressedTexture2D::3815950325978693939::1639657974::1706700746::1::::<><>::
+forest_ [bridgeAnimatedTiles].png::CompressedTexture2D::682380939314541749::1676239418::1706700746::1::::<><>::
+forest_ [bridgeHorizontal].png::CompressedTexture2D::5123570589983024832::1676239664::1706700746::1::::<><>::
+forest_ [bridgeVertical].png::CompressedTexture2D::3832074643048597178::1676239590::1706700746::1::::<><>::
+forest_ [fencesAndWalls].png::CompressedTexture2D::7081490283603323682::1676238216::1706700746::1::::<><>::
+forest_ [fountain].png::CompressedTexture2D::4675533441324385224::1676239362::1706700746::1::::<><>::
+forest_ [resources].png::CompressedTexture2D::5874933499021525790::1676243866::1706700746::1::::<><>::
+forest_.png::CompressedTexture2D::2510500552958716199::1687808092::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/swamp_/::1706700746
+puddle_.png::CompressedTexture2D::9128475561683343930::1639655542::1706700746::1::::<><>::
+swamp_ [bridgeAnimatedTiles].png::CompressedTexture2D::2071075961999241167::1676239438::1706700746::1::::<><>::
+swamp_ [bridgeHorizontal].png::CompressedTexture2D::1109823235069889183::1676239684::1706700746::1::::<><>::
+swamp_ [bridgeVertical].png::CompressedTexture2D::5602680512726654402::1676239610::1706700746::1::::<><>::
+swamp_ [fencesAndWalls].png::CompressedTexture2D::4313687276188480246::1676238226::1706700746::1::::<><>::
+swamp_ [fountain].png::CompressedTexture2D::7707870111751525091::1676239372::1706700746::1::::<><>::
+swamp_ [resources].png::CompressedTexture2D::8728299940970544106::1676243856::1706700746::1::::<><>::
+swamp_.png::CompressedTexture2D::6427678323532484155::1687808092::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/taiga_/::1706700746
+taigaPath_.png::CompressedTexture2D::3681830241586120482::1639657974::1706700746::1::::<><>::
+taiga_ [bridgeAnimatedTiles].png::CompressedTexture2D::7163781711570688483::1676239430::1706700746::1::::<><>::
+taiga_ [bridgeHorizontal].png::CompressedTexture2D::7461391227864517435::1676239674::1706700746::1::::<><>::
+taiga_ [bridgeVertical].png::CompressedTexture2D::6874251748274379736::1676239600::1706700746::1::::<><>::
+taiga_ [fencesAndWalls].png::CompressedTexture2D::2392628174610001544::1676238224::1706700746::1::::<><>::
+taiga_ [fountain].png::CompressedTexture2D::2998808405296546839::1676239364::1706700746::1::::<><>::
+taiga_ [resources].png::CompressedTexture2D::3497750347549682108::1676243862::1706700746::1::::<><>::
+taiga_.png::CompressedTexture2D::2571168765491210172::1687808094::1706700746::1::::<><>::
+::res://assets/world/exterior/fantasy_ [version 2.0]/tundra_/::1706700746
+ice_.png::CompressedTexture2D::7178008069561506982::1653478414::1706700746::1::::<><>::
+igloo_.png::CompressedTexture2D::9019726596184740726::1653490378::1706700746::1::::<><>::
+tundraPath_.png::CompressedTexture2D::8931750853595666885::1639657976::1706700746::1::::<><>::
+tundra_ [bridgeAnimatedTiles].png::CompressedTexture2D::867313594201243244::1676239556::1706700746::1::::<><>::
+tundra_ [bridgeHorizontal].png::CompressedTexture2D::9161806293409564972::1676239708::1706700746::1::::<><>::
+tundra_ [bridgeVertical].png::CompressedTexture2D::6215449456081475183::1676239632::1706700746::1::::<><>::
+tundra_ [fencesAndWalls].png::CompressedTexture2D::8209892141709184679::1676238272::1706700746::1::::<><>::
+tundra_ [fountain].png::CompressedTexture2D::2680559534906698013::1676239380::1706700746::1::::<><>::
+tundra_ [ice].png::CompressedTexture2D::2741170185098757515::1653478656::1706700746::1::::<><>::
+tundra_ [resources].png::CompressedTexture2D::4540201482610957895::1676243848::1706700746::1::::<><>::
+tundra_.png::CompressedTexture2D::1206301727136923322::1687808094::1706700746::1::::<><>::
+::res://scenes/::1708255217
+test_level.tscn::PackedScene::3816706081965812097::1708255217::0::1::::<><>::uid://ds4fsj72lw5l5::::res://scenes/player/player.tscn<>uid://b4dtcjhcp4vx2::::res://scenes/tile_sets/exterior_forest.tscn<>uid://dxsvtfebeaeai::::res://scenes/farm_animals/chicken.tscn<>uid://bwlsaep0ddri0::::res://scenes/weapons/test_weapon_1.tscn
+::res://scenes/components/::1708163000
+damagebox_component.tscn::PackedScene::3297889748155120073::1708163000::0::1::::<><>::res://scripts/components/damagebox_component.gd
+health_component.tscn::PackedScene::6062393091906075173::1706883391::0::1::::<><>::res://scripts/components/health_component.gd
+hurtbox_component.tscn::PackedScene::2305349222647819045::1706906957::0::1::::<><>::res://scripts/components/hurtbox_component.gd
+weapon_component.tscn::PackedScene::7754597221250402520::1708162999::0::1::::<><>::res://scripts/components/weapon_component.gd
+::res://scenes/components/interaction/::1707380438
+InteractionManager.tscn::PackedScene::8694804171710746175::1707044439::0::1::::<><>::res://scripts/components/interaction/InteractionManager.gd
+interaction_area_component.tscn::PackedScene::826004367664100778::1707380438::0::1::::<><>::res://scripts/components/interaction/interaction_area_component.gd
+::res://scenes/components/items/::1708162999
+physics_item_component.tscn::PackedScene::1801660436709127032::1708162999::0::1::::<><>::res://scripts/components/items/physics_item_component.gd
+::res://scenes/farm_animals/::1707126135
+chicken.tscn::PackedScene::8812073510106166520::1707126135::0::1::::<><>::uid://tbffun3kbokr::::res://assets/animals/chicken/chicken_down.png<>res://scripts/farm_animals/farm_animal.gd<>res://scripts/states/state_machine.gd<>res://scripts/states/npc_general/npc_idle.gd<>res://scripts/states/npc_general/npc_roam.gd<>res://scripts/states/farm_animal/farm_animal_flee.gd<>uid://dqx7241ihe8fu::::res://assets/animals/chicken/chicken_up.png<>uid://73y1ag5m7der::::res://scenes/components/hurtbox_component.tscn<>uid://bbw12urk7qe38::::res://assets/animals/chicken/chicken_left.png<>uid://csmwy1e30b22l::::res://scenes/components/health_component.tscn<>uid://bk2uj07sgap6g::::res://assets/animals/chicken/chicken_right.png
+::res://scenes/player/::1708255217
+player.tscn::PackedScene::8482864444071988556::1708255217::0::1::::<><>::res://scripts/player/player.gd<>uid://6efh1fhvuyqv::::res://assets/player/NulBoy_SpriteSheet/CharacterSpriteSheet.png<>res://scripts/states/player/player_idle.gd<>res://scripts/states/state_machine.gd<>res://scripts/states/player/player_moving.gd<>uid://73y1ag5m7der::::res://scenes/components/hurtbox_component.tscn<>res://scripts/states/player/player_melee_attacking.gd<>uid://csmwy1e30b22l::::res://scenes/components/health_component.tscn<>uid://c431rlyeu84bc::::res://scenes/UI/ui.tscn
+::res://scenes/tile_sets/::1706907193
+exterior_forest.tscn::PackedScene::4429247960544455125::1706907193::0::1::::<><>::uid://bb1dtvm6rh848::::res://assets/world/exterior/fantasy_ [version 2.0]/forest_/forest_.png<>uid://bumqe54uf3s48::::res://assets/world/exterior/fantasy_ [version 2.0]/forest_/forestPath_.png<>uid://c75ld0tjyc86q::::res://assets/world/exterior/fantasy_ [version 2.0]/forest_/forest_ [fencesAndWalls].png<>uid://cpx4kcvlduhxe::::res://assets/world/exterior/fantasy_ [version 2.0]/forest_/forest_ [resources].png
+::res://scenes/UI/::1708255217
+inventory.tscn::PackedScene::1738381053602940823::1708248976::0::1::::<><>::res://scripts/UI/inventory.gd
+selection_wheel.tscn::PackedScene::2143189591762313246::1708255217::0::1::::<><>::res://scripts/UI/selection_wheel.gd
+ui.tscn::PackedScene::6867730025353082848::1708255217::0::1::::<><>::res://scripts/UI/ui.gd<>uid://y1c48tbgn2hv::::res://scenes/UI/inventory.tscn<>uid://5sgawqs7msje::::res://scenes/UI/selection_wheel.tscn
+::res://scenes/weapons/::1708255217
+test_weapon_1.tscn::PackedScene::3954376539299766677::1708255217::0::1::::<><>::res://scripts/components/items/physics_item_component.gd<>uid://dtktpj0x13bma::::res://assets/weapons/wep3.png<>res://scripts/components/weapon_component.gd<>res://scripts/components/damagebox_component.gd<>uid://l1ef27817347::::res://scenes/components/interaction/interaction_area_component.tscn
+::res://scripts/::1708163272
+::res://scripts/components/::1707383766
+damagebox_component.gd::GDScript::-1::1706960362::0::1::::DamageboxComponent<>Area2D<>::
+health_component.gd::GDScript::-1::1706883497::0::1::::HealthComponent<>Node<>::
+hurtbox_component.gd::GDScript::-1::1707383766::0::1::::<>Area2D<>::
+weapon_component.gd::GDScript::-1::1707383354::0::1::::WeaponComponent<>Sprite2D<>::
+::res://scripts/components/interaction/::1707381006
+InteractionManager.gd::GDScript::-1::1707044946::0::1::::<>Node2D<>::
+interaction_area_component.gd::GDScript::-1::1707381006::0::1::::InteractionAreaComponent<>Area2D<>::
+::res://scripts/components/items/::1708255217
+physics_item_component.gd::GDScript::-1::1708255217::0::1::::PhysicsItemComponent<>RigidBody2D<>::
+::res://scripts/farm_animals/::1706802778
+farm_animal.gd::GDScript::-1::1706802778::0::1::::FarmAnimal<>CharacterBody2D<>::
+::res://scripts/player/::1708250085
+player.gd::GDScript::-1::1708250085::0::1::::Player<>CharacterBody2D<>::
+::res://scripts/states/::1707048678
+state.gd::GDScript::-1::1706877438::0::1::::State<>Node<>::
+state_machine.gd::GDScript::-1::1706881100::0::1::::StateMachine<>Node<>::
+::res://scripts/states/farm_animal/::1706877570
+farm_animal_flee.gd::GDScript::-1::1706877570::0::1::::FarmAnimalFlee<>State<>::
+::res://scripts/states/npc_general/::1706877555
+npc_idle.gd::GDScript::-1::1706877555::0::1::::NpcIdle<>State<>::
+npc_roam.gd::GDScript::-1::1706877546::0::1::::NpcRoam<>State<>::
+::res://scripts/states/player/::1707382057
+player_idle.gd::GDScript::-1::1707127990::0::1::::PlayerIdle<>State<>::
+player_melee_attacking.gd::GDScript::-1::1707382057::0::1::::PlayerMeleeAttacking<>State<>::
+player_moving.gd::GDScript::-1::1707127990::0::1::::PlayerMoving<>State<>::
+::res://scripts/UI/::1708254750
+inventory.gd::GDScript::-1::1708249167::0::1::::<>Control<>::
+selection_wheel.gd::GDScript::-1::1708254750::0::1::::<>Control<>::
+ui.gd::GDScript::-1::1708254602::0::1::::<>CanvasLayer<>::

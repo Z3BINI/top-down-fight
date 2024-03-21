@@ -1,0 +1,7 @@
+res://scenes/player/player.tscn
+res://scripts/components/items/physics_item_component.gd
+res://scenes/test_level.tscn
+res://scenes/UI/selection_wheel.tscn
+res://scenes/UI/ui.tscn
+res://scenes/weapons/test_weapon_1.tscn
+res://scenes/farm_animals/chicken.tscn

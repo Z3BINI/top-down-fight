@@ -1,0 +1,15 @@
+CanvasLayer
+TextureRect
+CollisionShape2D
+InteractionAreaComponent
+DamageboxComponent
+WeaponComponent
+RigidBody2D
+Sprite2D
+WeaponGround
+StateMachine
+Area2D
+Label
+Node2D
+PlayerMeleeAttacking
+Node

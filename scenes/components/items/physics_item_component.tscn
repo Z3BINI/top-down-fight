@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://0w0c4kdannlg"]
+
+[ext_resource type="Script" path="res://scripts/components/items/physics_item_component.gd" id="1_ylynu"]
+
+[node name="PhysicsItemComponent" type="RigidBody2D"]
+collision_layer = 128
+collision_mask = 3
+gravity_scale = 0.0
+linear_damp = 2.0
+angular_damp = 1.5
+script = ExtResource("1_ylynu")
